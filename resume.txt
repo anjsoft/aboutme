@@ -10,7 +10,7 @@
 婚姻状况：	保密
 
 自我评价
-四技术特长 有1999年开始入校学计算机很长时间了，直接开发也快5年了，个人感觉比较喜开发。熟悉PHP，c/c++/object/java等语言， 及基于linux相关架站，维护技术。系统学习IOS开发一年多了，为了找工作刚作了一个小项目：anjweibo（一个简单的weibo客户端） , 放在github上了，个人觉的， 会什么不是重点，关键是能作什么及作了什么，所以作了这个项目，功能不多，但包含了重多IOS开发技能， 比如：delegate,block,kvc/kvo,NSNotification,catagory,让我很自豪的是因为是独立开发，自己解决了开发中遇到的 所有问题。 项目地址：https://github.com/anjsoft/anj-weibo https://github.com/anjsoft/SpaceVikingX 五、求职意向 找IOS开发相关的工作，未来想专注与移动平台开发。
+四技术特长 有1999年开始入校学计算机很长时间了，直接开发也快5年了，个人感觉比较喜开发。熟悉PHP，c/c++/object c/java等语言， 及基于linux相关架站，维护技术。系统学习IOS开发一年多了，为了找工作刚作了一个小项目：anjweibo（一个简单的weibo客户端） , 放在github上了，个人觉的， 会什么不是重点，关键是能作什么及作了什么，所以作了这个项目，功能不多，但包含了重多IOS开发技能， 比如：delegate,block,kvc/kvo,NSNotification,catagory,让我很自豪的是因为是独立开发，自己解决了开发中遇到的 所有问题。 项目地址：https://github.com/anjsoft/anj-weibo https://github.com/anjsoft/SpaceVikingX 五、求职意向 找IOS开发相关的工作，未来想专注与移动平台开发。
 
 求职意向
 到岗时间：	即时
